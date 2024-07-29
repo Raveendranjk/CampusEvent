@@ -1,1 +1,1 @@
-# CampusEventTechathon
+# CampusEvent
